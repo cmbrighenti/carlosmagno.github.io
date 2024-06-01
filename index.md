@@ -1,4 +1,3 @@
-
 ---
 title: Carlos Magno Brighenti dos Santos
 layout: home
