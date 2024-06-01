@@ -1,3 +1,9 @@
+
+---
+title: Carlos Magno Brighenti dos Santos
+layout: home
+---
+
 # Carlos Magno Brighenti dos Santos
 
 Carlos Magno Brighenti dos Santos, CEO da Catafacil, uma empresa com soluçoes para o mercado de reciclagem.
